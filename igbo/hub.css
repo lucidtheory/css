@@ -18,7 +18,7 @@
       margin: 0;
       background: var(--sky);
       color: var(--ink);
-      font-family: "Josefin Sans", "Trebuchet MS", Arial, sans-serif;
+      font-family: "LXGW WenKai TC", "Trebuchet MS", Arial, sans-serif;
       font-size: 18px;
       line-height: 1.65;
     }
@@ -226,7 +226,7 @@
   color: var(--ink);
   border-top: 5px solid var(--blue);
   border-radius: 26px;
-  font-family: "Josefin Sans", "Trebuchet MS", Arial, sans-serif;
+  font-family: "LXGW WenKai TC", "Trebuchet MS", Arial, sans-serif;
   font-size: 18px;
   line-height: 1.65;
   scroll-margin-block-start: 100px;
@@ -506,7 +506,7 @@
     border-top: 4px solid #35b9ed;
     box-shadow: 0 -8px 30px rgba(22, 85, 118, .14);
 
-    font-family: "Josefin Sans", "Trebuchet MS", Arial, sans-serif;
+    font-family: "LXGW WenKai TC", "Trebuchet MS", Arial, sans-serif;
 
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -534,7 +534,7 @@
 
     color: #075274;
 
-    font-family: "Josefin Sans", "Trebuchet MS", Arial, sans-serif;
+    font-family: "LXGW WenKai TC", "Trebuchet MS", Arial, sans-serif;
     font-size: 15px;
     font-weight: 700;
     letter-spacing: .025em;
@@ -604,7 +604,7 @@
     color: #075274;
     background: rgba(255, 255, 255, .48);
 
-    font-family: "Josefin Sans", "Trebuchet MS", Arial, sans-serif;
+    font-family: "LXGW WenKai TC", "Trebuchet MS", Arial, sans-serif;
     font-size: 14px;
     font-weight: 500;
 
