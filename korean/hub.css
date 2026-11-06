@@ -754,7 +754,7 @@ img.store-badge:not(.snapplify-badge){border-radius:0}
 .tray{background:var(--cream);border-radius:26px;padding:clamp(16px,3vw,30px);margin:0 0 26px;border-top:5px solid var(--blue);scroll-margin-top:76px}
 .hero-panel{scroll-margin-top:76px}
 .tray-head{margin:0 auto 14px;padding:0 4px}
-.tray-head h2{font-family:'Yeon Sung',Cinzel Decorative,Georgia,serif;font-size:clamp(22px,3.6vw,32px);color:#173447;margin:0 0 8px}
+.tray-head h2{font-family:'Yeon Sung',Cinzel Decorative,Georgia,serif;font-size:clamp(26px,5vw,32px);color:#173447;margin:0 0 8px}
 .tray-head p{margin:0;font-size:17px;line-height:1.65;color:#41586a;max-width:880px}
 .tray-scroller{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 10px;-webkit-overflow-scrolling:touch}
 .hub-card{flex:0 0 auto;width:clamp(300px,42vw,380px);scroll-snap-align:start;margin:0;background:#fff;border-radius:clamp(16px,7.5%,30px);overflow:hidden;box-shadow:0 2px 10px rgba(23,52,71,.08);display:flex;flex-direction:column}
